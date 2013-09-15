@@ -4,3 +4,8 @@ claudio:
   email: "zaniusa@yahoo.com"
   profile_name: "zaniusa"
 
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"
